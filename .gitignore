@@ -143,4 +143,5 @@ Desktop.ini
 
 .mvn
 mvnw
+mvnw.cmd
 mvnw.properties
